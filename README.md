@@ -74,3 +74,10 @@ MIT License – Open for research, remix, and personalization.
 ## 👤 Maintainer
 
 Charlie Z · [github.com/Charlie-Z-work](https://github.com/Charlie-Z-work)
+
+## 🧭 Documentation
+
+- [System Architecture](docs/architecture.md)
+- [Contributing Guide](docs/CONTRIBUTING.md)
+- CLI Entry Example: `python cli/origin_run.py`
+
