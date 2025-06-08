@@ -3,7 +3,7 @@
 **Noesis³** is a modular AI system composed of three specialized cognitive agents:
 
 - 🧠 **Origin** – A research intelligence agent for scientific reasoning, modeling, and technical writing.
-- 🎶 **Riin** – A virtual artistic persona for emotional expression, lyrics generation, and AI vocal synthesis.
+- 🎼 **Riin** – A virtual artistic persona for emotional expression, lyrics generation, and AI vocal synthesis.
 - 💹 **Vanta** – A strategic intelligence module for market cognition, quantitative analysis, and risk-informed decision-making.
 
 ---
@@ -28,9 +28,6 @@ Noesis3/
 ├── memory/      # Shared memory modules
 └── README.md
 
-
----
-
 🚀 Development Roadmap
 
 | Milestone             | Description                                | Status      |
@@ -41,21 +38,13 @@ Noesis3/
 | 📈 Vanta v1           | Trading + decision system + plotting tools | Planned     |
 | 🔁 Inter-agent bridge | Shared memory & cross-agent task routing   | Planned     |
 
+📦 Usage
 
----
-
-## 📦 Usage
-
-Clone the repo:
-
-```bash
 git clone https://github.com/Charlie-Z-work/Noesis3.git
 cd Noesis3
-# Start with origin module
-First module to explore: origin/
-Try running the initial task logic once available.
+# Start with the origin module
 
-🔧 Tech Stack (Planned)
+🛠️ Tech Stack (Planned)
 Python 3.10+
 
 LangChain / LLM APIs
@@ -71,4 +60,3 @@ MIT License – Open for research, remix, and personalization.
 
 👤 Maintainer
 Charlie Z · github.com/Charlie-Z-work
-
