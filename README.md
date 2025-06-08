@@ -18,7 +18,6 @@ It is designed as a multi-agent system to support real-world problem solving, cr
 ## 📦 Project Structure
 
 ```text
-
 Noesis3/
 ├── origin/      # Scientific reasoning agent
 ├── riin/        # AI singer and creative persona
@@ -29,17 +28,19 @@ Noesis3/
 ├── memory/      # Shared memory modules
 └── README.md
 
+
 ---
 
-## 🚀 Development Roadmap
+🚀 Development Roadmap
 
-| Milestone             | Description                                      | Status      |
-|-----------------------|--------------------------------------------------|-------------|
-| ✅ Scaffolding        | Modular repo structure with core folders         | Completed   |
-| 🔧 Origin v1          | `task_runner.py`, kernel logic, math tasks       | In Progress |
-| ⏳ Riin v1            | Lyrics + voice synthesis pipeline                | Planned     |
-| ⏳ Vanta v1           | Trading + decision system + plotting tools       | Planned     |
-| ⏳ Inter-agent bridge | Shared memory & cross-agent task routing         | Planned     |
+| Milestone             | Description                                | Status      |
+| --------------------- | ------------------------------------------ | ----------- |
+| ✅ Scaffolding         | Modular repo structure with core folders   | Completed   |
+| 🛠️ Origin v1         | `task_runner.py`, kernel logic, math tasks | In Progress |
+| 🎵 Riin v1            | Lyrics + voice synthesis pipeline          | Planned     |
+| 📈 Vanta v1           | Trading + decision system + plotting tools | Planned     |
+| 🔁 Inter-agent bridge | Shared memory & cross-agent task routing   | Planned     |
+
 
 ---
 
