@@ -18,6 +18,7 @@ It is designed as a multi-agent system to support real-world problem solving, cr
 ## 📦 Project Structure
 
 ```text
+
 Noesis3/
 ├── origin/      # Scientific reasoning agent
 ├── riin/        # AI singer and creative persona
@@ -28,7 +29,6 @@ Noesis3/
 ├── memory/      # Shared memory modules
 └── README.md
 
-<!-- 🔥 至关重要！以下空一行！！ -->
 ---
 
 ## 🚀 Development Roadmap
