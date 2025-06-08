@@ -28,35 +28,49 @@ Noesis3/
 ├── memory/      # Shared memory modules
 └── README.md
 ```
-🚀 Development Roadmap
 
-| Milestone             | Description                                | Status      |
-| --------------------- | ------------------------------------------ | ----------- |
-| ✅ Scaffolding         | Modular repo structure with core folders   | Completed   |
-| 🛠️ Origin v1         | `task_runner.py`, kernel logic, math tasks | In Progress |
-| 🎵 Riin v1            | Lyrics + voice synthesis pipeline          | Planned     |
-| 📈 Vanta v1           | Trading + decision system + plotting tools | Planned     |
-| 🔁 Inter-agent bridge | Shared memory & cross-agent task routing   | Planned     |
+---
 
-📦 Usage
+## 🚀 Development Roadmap
 
+| Milestone           | Description                                        | Status      |
+|---------------------|----------------------------------------------------|-------------|
+| ✅ Scaffolding       | Modular repo structure with core folders           | Completed   |
+| 🛠️ Origin v1         | `task_runner.py`, kernel logic, math tasks         | In Progress |
+| 🎵 Riin v1           | Lyrics + voice synthesis pipeline                  | Planned     |
+| 📈 Vanta v1          | Trading + decision system + plotting tools         | Planned     |
+| 🔁 Inter-agent bridge| Shared memory & cross-agent task routing           | Planned     |
+
+---
+
+## 📦 Usage
+
+Clone the repo:
+
+```bash
 git clone https://github.com/Charlie-Z-work/Noesis3.git
 cd Noesis3
 # Start with the origin module
+```
 
-🛠️ Tech Stack (Planned)
-Python 3.10+
+---
 
-LangChain / LLM APIs
+## 🛠️ Tech Stack (Planned)
 
-Gradio / Streamlit (for UI)
+- Python 3.10+
+- LangChain / LLM APIs
+- Gradio / Streamlit (for UI)
+- Redis / SQLite (for memory)
+- GitHub Copilot / ChatGPT (for co-development)
 
-Redis / SQLite (for memory)
+---
 
-GitHub Copilot / ChatGPT (for co-development)
+## 📄 License
 
-📄 License
 MIT License – Open for research, remix, and personalization.
 
-👤 Maintainer
-Charlie Z · github.com/Charlie-Z-work
+---
+
+## 👤 Maintainer
+
+Charlie Z · [github.com/Charlie-Z-work](https://github.com/Charlie-Z-work)
