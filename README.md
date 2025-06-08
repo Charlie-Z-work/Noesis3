@@ -17,7 +17,7 @@ It is designed as a multi-agent system to support real-world problem solving, cr
 
 ## 📦 Project Structure
 
-'''text
+```text
 Noesis3/
 ├── origin/      # Scientific reasoning agent
 ├── riin/        # AI singer and creative persona
@@ -27,10 +27,10 @@ Noesis3/
 ├── tasks/       # Task definitions and agent missions
 ├── memory/      # Shared memory modules
 └── README.md
-
+```
 --
 
-##🚀 Development Roadmap
+🚀 Development Roadmap
 
 | Milestone             | Description                                | Status      |
 | --------------------- | ------------------------------------------ | ----------- |
