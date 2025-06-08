@@ -28,8 +28,6 @@ Noesis3/
 ├── memory/      # Shared memory modules
 └── README.md
 ```
---
-
 🚀 Development Roadmap
 
 | Milestone             | Description                                | Status      |
