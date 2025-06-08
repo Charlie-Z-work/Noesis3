@@ -15,16 +15,16 @@ It is designed as a multi-agent system to support real-world problem solving, cr
 
 ---
 
-## 🧱 Project Structure
+## 📦 Project Structure
 
 Noesis3/
-├── origin/      # Scientific reasoning agent
-├── riin/        # AI singer and creative persona
-├── vanta/       # Quantitative & financial cognition
-├── core/        # Shared logic and inter-agent coordination
-├── config/      # Configuration files
-├── tasks/       # Task definitions and agent missions
-├── memory/      # Shared memory modules
+├── origin/ # Scientific reasoning agent
+├── riin/ # AI singer and creative persona
+├── vanta/ # Quantitative & financial cognition
+├── core/ # Shared logic and inter-agent coordination
+├── config/ # Configuration files
+├── tasks/ # Task definitions and agent missions
+├── memory/ # Shared memory modules
 └── README.md
 
 ---
